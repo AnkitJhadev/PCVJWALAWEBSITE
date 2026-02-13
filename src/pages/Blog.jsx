@@ -33,7 +33,7 @@ const Blog = () => {
       featured: true,
       image: '/blog/react-native-2024.jpg',
       seo: {
-        metaTitle: 'Ultimate Guide to React Native Development 2024',
+        metaTitle: 'Ultimate Guide to React Native Development 2025',
         metaDescription: 'Complete guide to React Native development with latest trends, best practices, and tools for cross-platform mobile apps.',
         keywords: 'React Native development, cross-platform mobile development, mobile app development 2024'
       }
