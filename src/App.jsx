@@ -23,7 +23,7 @@ function App() {
             keywords="React Native development, React.js development, Node.js development, MongoDB development, MERN stack, mobile app development, web development, software development company"
           />
           <Header />
-          <main className="flex-grow">
+          <main className="flex-grow pt-16">
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/about" element={<About />} />
